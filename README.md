@@ -7,7 +7,7 @@
 
 Corporate & Business Theme by usebootstrap.com: [Demo](http://www.blacktie.co/demo/dashgum/) | [Homepage](http://blacktie.co/2014/07/dashgum-free-dashboard/)
 
-![Screenshot](_doc/nova.png)
+![Screenshot](_doc/nova.jpg)
 
 
 
